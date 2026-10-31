@@ -1,0 +1,22 @@
+{
+  "wheel_id": 587,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-108",
+  "project": "retaining-wall-repairs-brisbane-seasonal-timing-c940e3549ddba55",
+  "parent_t1_ref": "retainingwallsbrisbane-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining wall repairs brisbane seasonal timing",
+  "intended_url": "http://retaining-wall-repairs-brisbane-seasonal-timing-c940e3549ddba55.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "83d0c0fdb6f35e10",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-repairs-brisbane-705916f49518ad66c727a04578e90b6/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
